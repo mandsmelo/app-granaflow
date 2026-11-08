@@ -1,5 +1,3 @@
-##  Autoria
-
 - **Nome:** Amanda de Melo Alencar
 - **Turma:** CDC5.NA
 
